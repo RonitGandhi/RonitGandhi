@@ -2,34 +2,58 @@
 
 <h1 align="center">Hi, I’m Ronit Gandhi 👋</h1>
 
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #22C55E, transparent);" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+ML+Engineer+%7C+Quantitative+Research+Enthusiast;AI+Systems+%E2%80%A2+Financial+Modeling+%E2%80%A2+Scalable+Data+Pipelines;Building+FortuneFlow+%E2%80%94+AI-driven+personal+finance+platform" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=4500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+ML+Engineer+%7C+Quantitative+Research+Enthusiast;Building+Production-Ready+AI+Systems;Exploring+AI+%2B+Finance+%2B+Decision+Intelligence" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronit-gandhi-5a65941aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ronit%20Gandhi-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ronit%20Gandhi-16A34A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://ronitgandhi.com/">
-    <img src="https://img.shields.io/badge/Portfolio-ronitgandhi.com-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-ronitgandhi.com-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:roitgandhi1610@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-15803D?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-15803D?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://fortuneflow.net/">
-    <img src="https://img.shields.io/badge/FortuneFlow-Visit%20Site-0EA5A4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/FortuneFlow-Visit%20Site-0EA5A4?style=for-the-badge&logo=leaflet&logoColor=white"/>
   </a>
 </p>
 
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #22C55E, transparent);" />
+
 <p align="center">
-  <!-- Minimal flat badges (green branding) -->
-  <img src="https://img.shields.io/badge/Python-16A34A?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-22C55E?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-15803D?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-0F766E?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-16A34A?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-22C55E?style=flat&logo=googlecloud&logoColor=white" />
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Python-16A34A?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-15803D?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-0F766E?style=flat&logo=c%2B%2B&logoColor=white"/>
+
+  <!-- ML / AI -->
+  <img src="https://img.shields.io/badge/PyTorch-22C55E?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-16A34A?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-15803D?style=flat&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-0F766E?style=flat&logo=huggingface&logoColor=white"/>
+
+  <!-- Backend / Systems -->
+  <img src="https://img.shields.io/badge/FastAPI-22C55E?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-16A34A?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-15803D?style=flat&logo=docker&logoColor=white"/>
+
+  <!-- Cloud / Data -->
+  <img src="https://img.shields.io/badge/Vertex%20AI-22C55E?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-0F766E?style=flat&logo=amazonaws&logoColor=white"/>
+
+  <!-- Quant -->
+  <img src="https://img.shields.io/badge/Time%20Series-16A34A?style=flat"/>
+  <img src="https://img.shields.io/badge/Algorithmic%20Trading-15803D?style=flat"/>
+  <img src="https://img.shields.io/badge/Optimization-0F766E?style=flat"/>
 </p>
+
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #22C55E, transparent);" />
+
 
 ---
 
