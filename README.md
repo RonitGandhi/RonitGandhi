@@ -52,8 +52,6 @@
   <img src="https://img.shields.io/badge/Optimization-0F766E?style=flat"/>
 </p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #22C55E, transparent);" />
-
 
 ---
 
