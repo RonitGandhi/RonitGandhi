@@ -77,10 +77,22 @@ My work spans **end-to-end ML pipelines** — data engineering → modeling → 
 
 ## 📌 Featured Work
 
-- **AI-Powered Resume Screening Platform** — semantic matching + skill extraction with Transformers; Django-based enterprise extensibility  
-- **Quant Signal Research Pipeline** — SARIMA vs LSTM forecasting, alternative data integration, robust backtesting  
-- **BioNLP Multi-Task Learning** — joint **Biomedical NER + Relation Extraction** using shared representations  
-- **Real-Time Computer Vision** — YOLO-based detection pipelines for safety-critical use cases  
+🔹 **Gold Trading Strategy**  
+Quantitative research project evaluating multiple gold trading strategies using **Google Trends (PyTrends)**, technical indicators (RSI, MACD, Bollinger Bands, SMA/EMA), and hybrid approaches. Includes signal generation, backtesting, and comparative performance analysis.
+
+🔹 **Multi-BioNER (Multi-Task Learning)**  
+A **multi-task learning framework** for Biomedical Named Entity Recognition (BioNER), leveraging shared representations and cross-task knowledge transfer to improve entity recognition performance across biomedical datasets.
+
+🔹 **Recommender System**  
+End-to-end recommender system implementation in Python, focusing on user–item interactions, similarity metrics, and ranking logic. Designed to demonstrate core recommendation algorithms and evaluation strategies.
+
+🔹 **Alpha Research**  
+Exploratory quantitative research repository focused on **alpha signal discovery**, statistical analysis, and experimental trading ideas using market and alternative data.
+
+🔹 **Banking GenAI Assistant**  
+A generative AI–powered assistant for banking and financial use cases, showcasing LLM integration, prompt engineering, and practical applications of GenAI in finance.
+
+
 
 ---
 
