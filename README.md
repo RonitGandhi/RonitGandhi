@@ -13,7 +13,7 @@
   <a href="https://ronitgandhi.com/">
     <img src="https://img.shields.io/badge/Portfolio-ronitgandhi.com-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:roitgandhi1610@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-15803D?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://fortuneflow.net/">
@@ -86,8 +86,6 @@ My work spans **end-to-end ML pipelines** — data engineering → modeling → 
 
 ## 📊 GitHub Stats
 
-> **IMPORTANT:** Replace `RonitGandhi` below with your exact GitHub username if different.
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RonitGandhi&show_icons=true&hide_border=true&title_color=16A34A&icon_color=22C55E&text_color=0F172A&bg_color=FFFFFF" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonitGandhi&layout=compact&hide_border=true&title_color=16A34A&text_color=0F172A&bg_color=FFFFFF" />
@@ -104,6 +102,5 @@ My work spans **end-to-end ML pipelines** — data engineering → modeling → 
 - LinkedIn: https://www.linkedin.com/in/ronit-gandhi-5a65941aa/  
 - Portfolio: https://ronitgandhi.com/  
 - FortuneFlow: https://fortuneflow.net/  
-- Email: `YOUR_EMAIL@gmail.com`
 
 ⭐ If you find my work useful, feel free to star a repo — it helps!
